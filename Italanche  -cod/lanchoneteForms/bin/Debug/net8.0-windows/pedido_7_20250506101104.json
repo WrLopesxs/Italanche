@@ -1,0 +1,31 @@
+{
+  "NumeroPedido": "7",
+  "Cliente": "emerson",
+  "DataPedido": "2025-05-06 10:08:45",
+  "TotalPedido": "69,80",
+  "Observacao": "aaaaa",
+  "Itens": [
+    {
+      "NumeroItem": "2",
+      "Descricao": "Guaraná Kuat R$12,2",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$12,20",
+      "TotalItem": "12,20"
+    },
+    {
+      "NumeroItem": "3",
+      "Descricao": "McChicken Duplo",
+      "Quantidade": "2",
+      "PrecoUnitario": "R$22,70  ",
+      "TotalItem": " 45,40"
+    },
+    {
+      "NumeroItem": "4",
+      "Descricao": "Guaraná Kuat R$12,2",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$12,20",
+      "TotalItem": "12,20"
+    }
+  ],
+  "Condimentos": []
+}

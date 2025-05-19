@@ -1,0 +1,21 @@
+Número do Pedido: 1
+Cliente: wender
+Data do Pedido: 2025-05-19 10:54:28
+Total do Pedido: 48,60
+Observação: carne ao ponto
+
+Itens:
+  Item 1: McChicken
+    Quantidade: 2
+    Preço Unitário: 
+    Total: 39,60
+
+  - Condimento: Pimenta
+  - Condimento: Catchup
+  - Condimento: Maionese
+  - Condimento: Mostarda
+  Item 2: Iced Tea - R$9,00
+    Quantidade: 1
+    Preço Unitário: R$9,00
+    Total: 9,00
+

@@ -1,0 +1,52 @@
+{
+  "NumeroPedido": "12",
+  "Cliente": "ababa",
+  "DataPedido": "2025-05-06 11:36:54",
+  "TotalPedido": "111,00",
+  "Observacao": "ababa",
+  "Itens": [
+    {
+      "NumeroItem": "1",
+      "Descricao": "Duplo Burguer Queijo",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$24,80  ",
+      "TotalItem": " 24,80"
+    },
+    {
+      "NumeroItem": "2",
+      "Descricao": "Guaraná Kuat R$12,2",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$12,20",
+      "TotalItem": "12,20"
+    },
+    {
+      "NumeroItem": "3",
+      "Descricao": "Duplo Burguer Queijo",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$24,80  ",
+      "TotalItem": " 24,80"
+    },
+    {
+      "NumeroItem": "4",
+      "Descricao": "Guaraná Kuat R$12,2",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$12,20",
+      "TotalItem": "12,20"
+    },
+    {
+      "NumeroItem": "5",
+      "Descricao": "Duplo Burguer Queijo",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$24,80  ",
+      "TotalItem": " 24,80"
+    },
+    {
+      "NumeroItem": "6",
+      "Descricao": "Guaraná Kuat R$12,2",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$12,20",
+      "TotalItem": "12,20"
+    }
+  ],
+  "Condimentos": []
+}

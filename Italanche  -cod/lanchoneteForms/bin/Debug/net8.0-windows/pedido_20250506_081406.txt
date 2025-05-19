@@ -1,0 +1,14 @@
+Número do Pedido: 1
+Cliente: arthur
+Data do Pedido: 2025-05-06 08:12:57
+Total do Pedido: 86,20
+Observação: aksajdhka
+
+Itens:
+  Item 2 - 1 - R$12,20 cada - Total: R$ 12,20
+  Item 4 - 1 - R$12,20 cada - Total: R$ 12,20
+  Item 5 - 2 - R$24,80 cada - Total: R$ 49,60
+  - Condimento: 
+  - Condimento: 
+  - Condimento: 
+  Item 6 - 1 - R$12,20 cada - Total: R$ 12,20

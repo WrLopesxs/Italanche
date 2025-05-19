@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pedidos>
+  <Pedido>
+    <NumeroPedido>1</NumeroPedido>
+    <Cliente>arthur</Cliente>
+    <DataPedido>2025-05-06 08:12:57</DataPedido>
+    <TotalPedido>86,20</TotalPedido>
+    <Observacao>aksajdhka</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <PrecoUnitario>1,00</PrecoUnitario>
+        <Quantidade>12,20</Quantidade>
+        <TotalItem>12,20</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>4</NumeroItem>
+        <PrecoUnitario>1,00</PrecoUnitario>
+        <Quantidade>12,20</Quantidade>
+        <TotalItem>12,20</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>5</NumeroItem>
+        <PrecoUnitario>2,00</PrecoUnitario>
+        <Quantidade>24,80</Quantidade>
+        <TotalItem>49,60</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>6</NumeroItem>
+        <PrecoUnitario>1,00</PrecoUnitario>
+        <Quantidade>12,20</Quantidade>
+        <TotalItem>12,20</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos />
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>2</NumeroPedido>
+    <Cliente>Ryan Ruas Pires</Cliente>
+    <DataPedido>2025-05-06 08:22:23</DataPedido>
+    <TotalPedido>60,50</TotalPedido>
+    <Observacao>Carne mal passada</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <PrecoUnitario>2,00</PrecoUnitario>
+        <Quantidade>25,50</Quantidade>
+        <TotalItem>51,00</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <PrecoUnitario>1,00</PrecoUnitario>
+        <Quantidade>9,50</Quantidade>
+        <TotalItem>9,50</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos />
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>3</NumeroPedido>
+    <Cliente></Cliente>
+    <DataPedido>2025-05-06 08:26:56</DataPedido>
+    <TotalPedido>35,00</TotalPedido>
+    <Observacao></Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <PrecoUnitario>1,00</PrecoUnitario>
+        <Quantidade>25,50</Quantidade>
+        <TotalItem>25,50</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <PrecoUnitario>1,00</PrecoUnitario>
+        <Quantidade>9,50</Quantidade>
+        <TotalItem>9,50</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos />
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>4</NumeroPedido>
+    <Cliente>wender</Cliente>
+    <DataPedido>2025-05-06 08:32:36</DataPedido>
+    <TotalPedido>59,50</TotalPedido>
+    <Observacao>assa a acanre</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>Duplo Burguer Queijo</Descricao>
+        <PrecoUnitario>24,80</PrecoUnitario>
+        <Quantidade>2</Quantidade>
+        <TotalItem>49,60</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Sprite R$9,90</Descricao>
+        <PrecoUnitario>9,90</PrecoUnitario>
+        <Quantidade>1</Quantidade>
+        <TotalItem>9,90</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos />
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>5</NumeroPedido>
+    <Cliente>caio ricardo</Cliente>
+    <DataPedido>2025-05-06 08:36:44</DataPedido>
+    <TotalPedido>34,80</TotalPedido>
+    <Observacao>n gosto d carne</Observacao>
+    <Condimentos>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Maionese</Condimento>
+      <Condimento>Mostarda</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>6</NumeroPedido>
+    <Cliente>zamuel</Cliente>
+    <DataPedido>2025-05-06 08:38:48</DataPedido>
+    <TotalPedido>54,60</TotalPedido>
+    <Observacao>abu</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>Duplo Burguer Queijo</Descricao>
+        <Quantidade>2</Quantidade>
+        <PrecoUnitario>24,80  </PrecoUnitario>
+        <TotalItem> 49,60</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Fanta Uva R$5  </Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>5,00</PrecoUnitario>
+        <TotalItem>5,00</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Batata Palha</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Catchup</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>7</NumeroPedido>
+    <Cliente>emerson</Cliente>
+    <DataPedido>2025-05-06 10:08:45</DataPedido>
+    <TotalPedido>69,80</TotalPedido>
+    <Observacao>aaaaa</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Guaraná Kuat R$12,2</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>12,20</PrecoUnitario>
+        <TotalItem>12,20</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>3</NumeroItem>
+        <Descricao>McChicken Duplo</Descricao>
+        <Quantidade>2</Quantidade>
+        <PrecoUnitario>22,70  </PrecoUnitario>
+        <TotalItem> 45,40</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>4</NumeroItem>
+        <Descricao>Guaraná Kuat R$12,2</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>12,20</PrecoUnitario>
+        <TotalItem>12,20</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Maionese</Condimento>
+      <Condimento>Mostarda</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>8</NumeroPedido>
+    <Cliente>abu</Cliente>
+    <DataPedido>2025-05-06 10:45:30</DataPedido>
+    <TotalPedido>35,50</TotalPedido>
+    <Observacao>ba</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>Duplo Burguer Bacon</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>25,50  </PrecoUnitario>
+        <TotalItem> 25,50</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Fanta Laranja R$10</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>10,00</PrecoUnitario>
+        <TotalItem>10,00</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Batata Palha</Condimento>
+      <Condimento>Catchup</Condimento>
+      <Condimento>Maionese</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>9</NumeroPedido>
+    <Cliente>aaaa</Cliente>
+    <DataPedido>2025-05-06 10:47:13</DataPedido>
+    <TotalPedido>37,89</TotalPedido>
+    <Observacao>aaa</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>Triplo Burguer</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>27,90  </PrecoUnitario>
+        <TotalItem> 27,90</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Suco de Abacaxi R$9,99</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>9,99</PrecoUnitario>
+        <TotalItem>9,99</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Batata Palha</Condimento>
+      <Condimento>Catchup</Condimento>
+      <Condimento>Maionese</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>10</NumeroPedido>
+    <Cliente>ananana</Cliente>
+    <DataPedido>2025-05-06 10:47:13</DataPedido>
+    <TotalPedido>27,70</TotalPedido>
+    <Observacao>anana</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>McChicken Duplo</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>22,70  </PrecoUnitario>
+        <TotalItem> 22,70</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Fanta Uva R$5  </Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>5,00</PrecoUnitario>
+        <TotalItem>5,00</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Pimenta</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>11</NumeroPedido>
+    <Cliente>aaaa</Cliente>
+    <DataPedido>2025-05-06 10:56:47</DataPedido>
+    <TotalPedido>104,40</TotalPedido>
+    <Observacao>aaaa</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>Duplo Burguer Queijo</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>24,80  </PrecoUnitario>
+        <TotalItem> 24,80</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Fanta Laranja R$10</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>10,00</PrecoUnitario>
+        <TotalItem>10,00</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>3</NumeroItem>
+        <Descricao>Duplo Burguer Queijo</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>24,80  </PrecoUnitario>
+        <TotalItem> 24,80</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>4</NumeroItem>
+        <Descricao>Fanta Laranja R$10</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>10,00</PrecoUnitario>
+        <TotalItem>10,00</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>5</NumeroItem>
+        <Descricao>Duplo Burguer Queijo</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>24,80  </PrecoUnitario>
+        <TotalItem> 24,80</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>6</NumeroItem>
+        <Descricao>Fanta Laranja R$10</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>10,00</PrecoUnitario>
+        <TotalItem>10,00</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Maionese</Condimento>
+      <Condimento>Mostarda</Condimento>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Maionese</Condimento>
+      <Condimento>Mostarda</Condimento>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Maionese</Condimento>
+      <Condimento>Mostarda</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>12</NumeroPedido>
+    <Cliente>wender</Cliente>
+    <DataPedido>2025-05-19 10:25:59</DataPedido>
+    <TotalPedido>30,50</TotalPedido>
+    <Observacao></Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>McFish</Descricao>
+        <Quantidade>2</Quantidade>
+        <PrecoUnitario />
+        <TotalItem>21,00</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Suco de Uva - R$9,50</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>9,50</PrecoUnitario>
+        <TotalItem>9,50</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Batata Palha</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Mostarda</Condimento>
+    </Condimentos>
+  </Pedido>
+</Pedidos>

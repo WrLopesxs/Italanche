@@ -1,0 +1,21 @@
+Número do Pedido: 2
+Cliente: ryan
+Data do Pedido: 2025-05-19 11:07:09
+Total do Pedido: 57,50
+Observação: carne mal passada
+
+Itens:
+  Item 1: Podrao da eskina
+    Quantidade: 5
+    Preço Unitário: 
+    Total: 52,50
+
+  - Condimento: Molho Inglês
+  - Condimento: Batata Palha
+  - Condimento: Pimenta
+  - Condimento: Mostarda
+  Item 2: Coca-Cola - R$5,00
+    Quantidade: 1
+    Preço Unitário: R$5,00
+    Total: 5,00
+

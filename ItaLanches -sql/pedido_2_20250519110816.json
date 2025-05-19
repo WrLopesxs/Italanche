@@ -1,0 +1,29 @@
+{
+  "NumeroPedido": "2",
+  "Cliente": "ryan",
+  "DataPedido": "2025-05-19 11:07:09",
+  "TotalPedido": "57,50",
+  "Observacao": "carne mal passada",
+  "Itens": [
+    {
+      "NumeroItem": "1",
+      "Descricao": "Podrao da eskina",
+      "Quantidade": "5",
+      "PrecoUnitario": null,
+      "TotalItem": "52,50"
+    },
+    {
+      "NumeroItem": "2",
+      "Descricao": "Coca-Cola - R$5,00",
+      "Quantidade": "1",
+      "PrecoUnitario": "5,00",
+      "TotalItem": "5,00"
+    }
+  ],
+  "Condimentos": [
+    "Molho Inglês",
+    "Batata Palha",
+    "Pimenta",
+    "Mostarda"
+  ]
+}

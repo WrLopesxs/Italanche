@@ -1,0 +1,29 @@
+{
+  "NumeroPedido": "1",
+  "Cliente": "wender",
+  "DataPedido": "2025-05-19 10:54:28",
+  "TotalPedido": "48,60",
+  "Observacao": "carne ao ponto",
+  "Itens": [
+    {
+      "NumeroItem": "1",
+      "Descricao": "McChicken",
+      "Quantidade": "2",
+      "PrecoUnitario": null,
+      "TotalItem": "39,60"
+    },
+    {
+      "NumeroItem": "2",
+      "Descricao": "Iced Tea - R$9,00",
+      "Quantidade": "1",
+      "PrecoUnitario": "9,00",
+      "TotalItem": "9,00"
+    }
+  ],
+  "Condimentos": [
+    "Pimenta",
+    "Catchup",
+    "Maionese",
+    "Mostarda"
+  ]
+}

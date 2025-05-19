@@ -1,0 +1,23 @@
+Numero do Pedido: 1
+Cliente: asvdsadv
+Data do Pedido: 2025-05-05 10:02:53
+Total do Pedido: 1.149,80
+Observação: savdsavd
+
+Itens:
+Numero do Item: 1
+Preco Unitario: 1,00
+Quantidade: 24,80
+Total do Item: 24,80
+
+Numero do Item: 2
+Preco Unitario: 1,00
+Quantidade: 1125,00
+Total do Item: 1125,00
+
+Condimentos:
+Descricao: Suco de Laranja R$11.25
+Descricao: Molho Inglês
+Descricao: Pimenta
+Descricao: Catchup
+Descricao: Mostarda

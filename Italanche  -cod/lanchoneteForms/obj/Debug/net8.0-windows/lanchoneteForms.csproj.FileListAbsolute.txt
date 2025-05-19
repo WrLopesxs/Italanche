@@ -1,0 +1,155 @@
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\Pichau\Desktop\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\Romildo\Downloads\Escola\DS\lanchoneteForms\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\Downloads\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\Downloads\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\Downloads\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\MENu (3)\MEnu\MenuLanche\lanchoneteForms\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\Downloads\ababa\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.exe
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.deps.json
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.runtimeconfig.json
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.AssemblyReference.cache
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.formLanchonete.resources
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.Properties.Resources.resources
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.GenerateResource.cache
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfoInputs.cache
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.AssemblyInfo.cs
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.csproj.CoreCompileInputs.cache
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchone.0D4411A7.Up2Date
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\refint\lanchoneteForms.dll
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.pdb
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\lanchoneteForms.genruntimeconfig.cache
+C:\Users\LabInfo\Downloads\ItaLanche\ItaLanche\lanchoneteForms\obj\Debug\net8.0-windows\ref\lanchoneteForms.dll

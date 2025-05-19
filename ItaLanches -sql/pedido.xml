@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pedidos>
+  <Pedido>
+    <NumeroPedido>1</NumeroPedido>
+    <Cliente>wender</Cliente>
+    <DataPedido>2025-05-19 10:54:28</DataPedido>
+    <TotalPedido>48,60</TotalPedido>
+    <Observacao>carne ao ponto</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>McChicken</Descricao>
+        <Quantidade>2</Quantidade>
+        <PrecoUnitario />
+        <TotalItem>39,60</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Iced Tea - R$9,00</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>9,00</PrecoUnitario>
+        <TotalItem>9,00</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Catchup</Condimento>
+      <Condimento>Maionese</Condimento>
+      <Condimento>Mostarda</Condimento>
+    </Condimentos>
+  </Pedido>
+  <Pedido>
+    <NumeroPedido>2</NumeroPedido>
+    <Cliente>ryan</Cliente>
+    <DataPedido>2025-05-19 11:07:09</DataPedido>
+    <TotalPedido>57,50</TotalPedido>
+    <Observacao>carne mal passada</Observacao>
+    <Itens>
+      <Item>
+        <NumeroItem>1</NumeroItem>
+        <Descricao>Podrao da eskina</Descricao>
+        <Quantidade>5</Quantidade>
+        <PrecoUnitario />
+        <TotalItem>52,50</TotalItem>
+      </Item>
+      <Item>
+        <NumeroItem>2</NumeroItem>
+        <Descricao>Coca-Cola - R$5,00</Descricao>
+        <Quantidade>1</Quantidade>
+        <PrecoUnitario>5,00</PrecoUnitario>
+        <TotalItem>5,00</TotalItem>
+      </Item>
+    </Itens>
+    <Condimentos>
+      <Condimento>Molho Inglês</Condimento>
+      <Condimento>Batata Palha</Condimento>
+      <Condimento>Pimenta</Condimento>
+      <Condimento>Mostarda</Condimento>
+    </Condimentos>
+  </Pedido>
+</Pedidos>

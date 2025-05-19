@@ -1,0 +1,14 @@
+Número do Pedido: 7
+Cliente: emerson
+Data do Pedido: 2025-05-06 10:08:45
+Total do Pedido: 69,80
+Observação: aaaaa
+
+Itens:
+  Item 2 - 1 - R$12,20 cada - Total: R$ 12,20
+  Item 3 - 2 - R$22,70 cada - Total: R$ 45,40
+  - Condimento: 
+  - Condimento: 
+  - Condimento: 
+  - Condimento: 
+  Item 4 - 1 - R$12,20 cada - Total: R$ 12,20

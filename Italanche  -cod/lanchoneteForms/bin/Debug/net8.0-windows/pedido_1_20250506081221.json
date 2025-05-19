@@ -1,0 +1,24 @@
+{
+  "NumeroPedido": "1",
+  "Cliente": "wender",
+  "DataPedido": "2025-05-06 08:11:46",
+  "TotalPedido": "29,80",
+  "Observacao": "aborgue",
+  "Itens": [
+    {
+      "NumeroItem": "1",
+      "Descricao": "Duplo Burguer Queijo",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$24,80  ",
+      "TotalItem": " 24,80"
+    },
+    {
+      "NumeroItem": "2",
+      "Descricao": "Fanta Uva R$5  ",
+      "Quantidade": "1",
+      "PrecoUnitario": "R$5,00",
+      "TotalItem": "5,00"
+    }
+  ],
+  "Condimentos": []
+}
